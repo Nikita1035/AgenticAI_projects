@@ -59,7 +59,7 @@ Copy code
 ### 1️ Install dependencies
 ```bash
 pip install -r requirements.txt
-2️ Run the AI logic
+ 2️ Run the AI logic
 Open and run:
 
 text
