@@ -1,4 +1,4 @@
-# Smart To-Do AI Assistant 🤖📝
+# Smart To-Do AI Assistant 
 
 ##  Overview
 Smart To-Do AI Assistant is an **agentic AI-based task management system** that helps users create, prioritize, and manage tasks intelligently. Instead of acting as a simple to-do list, the system uses **AI reasoning and automation** to assist users in planning and organizing daily activities more effectively.
